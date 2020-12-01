@@ -1,0 +1,31 @@
+.BadgesList li {
+  margin-bottom: 1rem;
+}
+
+.BadgesListItem {
+  background: #ffffff;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
+  margin-bottom: 1rem;
+  border-radius: 5px;
+  display: flex;
+  padding: 1rem;
+  width: 100%;
+}
+
+.BadgesListItem:hover {
+  background-color: #cae8f3;
+}
+
+.BadgesListItem__avatar {
+  border-radius: 50%;
+  background: #a3a3a3;
+  margin-right: 0.5rem;
+  width: 80px;
+  height: 80px;
+}
+.name__instagram {
+  color: blue;
+}
+.name {
+  font-weight: bold;
+}

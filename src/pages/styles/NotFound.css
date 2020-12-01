@@ -1,0 +1,13 @@
+.content-page {
+  width: 100%;
+  min-height: calc(100vh - 60px);
+  background: url("../../images/stars.svg"), #1b1b25;
+  background-repeat: repeat;
+  display: flex;
+  align-items: center;
+}
+.not-found {
+  color: #fff;
+  margin-left: 30rem;
+  margin-right: 2rem;
+}
