@@ -13,11 +13,14 @@
   },
   "dependencies": {
     "bootstrap": "^4.5.3",
+    "md5": "^2.3.0",
     "react": "16.8.3",
     "react-dom": "16.8.3",
     "react-icons": "^3.11.0",
+    "react-loading-skeleton": "^2.1.1",
     "react-router-dom": "5.2.0",
-    "react-scripts": "^4.0.0"
+    "react-scripts": "^4.0.0",
+    "reactstrap": "^8.7.1"
   },
   "devDependencies": {
     "faker": "^4.1.0",
