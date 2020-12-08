@@ -1,5 +1,5 @@
 import React from "react";
-import unavailable from "../images/error.svg";
+
 import { Link } from "react-router-dom";
 import "../pages/styles/NotFound.css";
 
